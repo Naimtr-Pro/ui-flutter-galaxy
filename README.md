@@ -24,23 +24,18 @@ ui_galaxy_project/
 
 ---
 
-## 🧩 **Como usar**
+## 🌐 **Demonstração**
 
-1️⃣ Clone o repositório ou baixe o `.zip`.  
-2️⃣ Extraia os arquivos em uma pasta local.  
-3️⃣ Abra o `index.html` em um navegador.  
-4️⃣ Clique no botão **Explorar Galáxia** e veja a mágica acontecer!
+👉 [Acesse a demonstração ao vivo](https://naimtr-pro.github.io/ui-galaxy)
 
 ---
 
-## 🌐 **Deploy**
+## 🧩 **Como usar**
 
-Você também pode publicar no **GitHub Pages**:
-
-1. Suba todos os arquivos para o repositório.  
-2. Vá em **Settings → Pages**.  
-3. Configure a branch como **`main`** e a pasta `/ (root)` ou `/docs` se usar outra.  
-4. O GitHub gera o link automático.
+1️⃣ Clone o repositório ou baixe o `.zip`  
+2️⃣ Extraia os arquivos em uma pasta local  
+3️⃣ Abra o `index.html` no navegador  
+4️⃣ Clique no botão **Explorar Galáxia** e aproveite!
 
 ---
 
@@ -52,3 +47,4 @@ GitHub: [@Naimtr-Pro](https://github.com/Naimtr-Pro)
 ---
 
 ✨ **Curtiu? Dá uma estrela ⭐ no repositório!**
+
